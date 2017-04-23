@@ -5,10 +5,10 @@
    id="com.phonegap.exemple2"
     version="1.0.0">
 	
-	<name> app2 Telefonia Celular</name>
+	<name> app3 libros de programacion</name>
 	
 	<description>
-	 Aplicacion que muestre informacion sobre la telfonia en mexico
+	 Aplicacion que muestre informacion sobre los libros
 	</description>
 	<author href="https://build.phonegap.com" email="mguadalupejimenez1g@gmail.com">
 	 Maria Guadalupe Jimenez Vazque 
